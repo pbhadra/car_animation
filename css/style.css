@@ -5,7 +5,7 @@ body{
 
 .bg{
     position: relative;
-    background: #00fdff url(../images/city.jpg);
+    background: url(../images/city.jpg);
     height: 100vh;
     background-size: contain;
     background-position: 100px;
